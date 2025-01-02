@@ -95,6 +95,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 # Acknowledgments
 Spansh Neutron Plotter: For making route planning easy and efficient.
+
 EDMC Developers: For their invaluable tool and plugin support.
+
 Elite Dangerous Community: For their enthusiasm and feedback.
-Happy flying, Commander! 🚀
+
+Happy flying, CMDR! 🚀
